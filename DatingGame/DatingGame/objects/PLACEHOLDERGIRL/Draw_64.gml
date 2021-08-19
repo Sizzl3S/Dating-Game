@@ -1,6 +1,6 @@
-display_set_gui_size(view_wport[0], view_hport[0]);
+display_set_gui_size(RESOLUTION_W, RESOLUTION_H);
 
 if (distance_to_object(oJasper) < 46)
 {
-	draw_text(PLACEHOLDERGIRL.x + 170, PLACEHOLDERGIRL.y + 20, "PRESS SPACE TO TALK");
+	draw_text(x + 255, y + 140, "PRESS SPACE TO TALK");
 }

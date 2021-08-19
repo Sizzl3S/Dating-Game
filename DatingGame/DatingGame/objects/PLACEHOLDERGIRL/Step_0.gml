@@ -20,9 +20,12 @@ if (taskTaken == false and closeEnough == true and keyboard_check(vk_space)) //C
 		GetIcecream();
 	}
 	
+	
+	
+	//Chooses every other task
 if (global.taskCompleted == true)
 {
-	ChooseTask(); //Chooses every other task
+	ChooseTask();
 }
 
 }
