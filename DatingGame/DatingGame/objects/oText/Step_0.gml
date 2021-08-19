@@ -10,7 +10,14 @@ if (keyboard_check_pressed(vk_space))
 	
 	if (textProgress >= _messageLength)
 	{
-		instance_destroy();	
+		instance_destroy();
+		if (instance_exists(oTextQueued))
+		{
+			with (oTextQueued) ticket--;
+		}else
+		{
+			with (oJasper) state = lastState;	
+		}
 	}else
 	{
 		textProgress = _messageLength;	

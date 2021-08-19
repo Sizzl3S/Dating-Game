@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Text Box",
-    "path": "folders/Scripts/Text Box.yy",
+    "name": "Player States",
+    "path": "folders/Scripts/Player States.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Box",
+  "name": "PlayerStateFree",
   "tags": [],
   "resourceType": "GMScript",
 }

@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Text Box.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Box",
+  "name": "NewTextBox",
   "tags": [],
   "resourceType": "GMScript",
 }
