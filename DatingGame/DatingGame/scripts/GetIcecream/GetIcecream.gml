@@ -1,7 +1,7 @@
 function GetIcecream(){
 	requirementMet = false;
 	
-	//Get icecream text box
+	//Icecream text box
 	
 	//Set requirement for task
 	
