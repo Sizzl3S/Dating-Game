@@ -15,6 +15,7 @@
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
     {"id":{"name":"sprTextBoxBg","path":"sprites/sprTextBoxBg/sprTextBoxBg.yy",},"order":3,},
     {"id":{"name":"oText","path":"objects/oText/oText.yy",},"order":2,},
+    {"id":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"order":4,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":0,},
     {"id":{"name":"sprJasper","path":"sprites/sprJasper/sprJasper.yy",},"order":0,},
@@ -58,6 +59,7 @@
     {"folderPath":"folders/Objects/Col Objects.yy","order":5,"resourceVersion":"1.0","name":"Col Objects","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Player States.yy","order":5,"resourceVersion":"1.0","name":"Player States","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Text Box.yy","order":7,"resourceVersion":"1.0","name":"Text Box","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/Tasks/Icecream.yy","order":2,"resourceVersion":"1.0","name":"Icecream","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -67,7 +69,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.3.570",
   },
   "resourceVersion": "1.4",
   "name": "DatingGame",

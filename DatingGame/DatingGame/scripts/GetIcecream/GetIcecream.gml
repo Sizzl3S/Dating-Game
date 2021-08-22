@@ -2,7 +2,7 @@ function GetIcecream(){
 	requirementMet = false;
 	
 	//Icecream text box
-	
+	NewTextBox("Go get me some icecream!", 1);
 	//Set requirement for task
 	
 	//Get Icecream Make Requirement
