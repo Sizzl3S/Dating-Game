@@ -1,21 +1,17 @@
 function PlayerStateFree(){
-	if keyboard_check(ord("A"))
+	//Movement
+	hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
+	vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
+	
+	PlayerCollision();
+	
+	//Activate Key Logic
+	if (keyActivate)
 	{
-		x = x - TopSpeed;
-	} 
-
-	if keyboard_check(ord("D"))
-	{ 
-		x = x + TopSpeed;
-	} 
-
-	if keyboard_check(ord("S"))
-	{
-		y = y + TopSpeed;
-	} 
-
-	if keyboard_check(ord("W"))
-	{ 
-		y = y - TopSpeed;
+		//1. Check for entity
+		//2. If there is nothing, or there is something, but it has no script
+		//3. Otherwise, activate
+		//4. If the thing activated is an NPC make it face towards player
 	}
+	
 }

@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprJasper",
+    "path": "sprites/sprJasper/sprJasper.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
