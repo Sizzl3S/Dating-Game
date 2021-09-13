@@ -10,3 +10,5 @@ inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 	
 script_execute(state);
 
+depth = -bbox_bottom;
+

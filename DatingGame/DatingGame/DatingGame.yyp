@@ -5,6 +5,7 @@
     {"id":{"name":"fnText","path":"fonts/fnText/fnText.yy",},"order":0,},
     {"id":{"name":"PlayerStateLocked","path":"scripts/PlayerStateLocked/PlayerStateLocked.yy",},"order":0,},
     {"id":{"name":"oJasper","path":"objects/oJasper/oJasper.yy",},"order":4,},
+    {"id":{"name":"ScriptExecuteArray","path":"scripts/ScriptExecuteArray/ScriptExecuteArray.yy",},"order":8,},
     {"id":{"name":"Box","path":"scripts/Box/Box.yy",},"order":0,},
     {"id":{"name":"GetIcecream","path":"scripts/GetIcecream/GetIcecream.yy",},"order":0,},
     {"id":{"name":"PLACEHOLDER","path":"sprites/PLACEHOLDER/PLACEHOLDER.yy",},"order":1,},
